@@ -1,0 +1,4 @@
+#Thu Jan 09 12:11:27 CET 2020
+base.0=C\:\\Users\\Alex\\AndroidStudioProjects\\Logopeda\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
