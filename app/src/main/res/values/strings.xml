@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Logopeda</string>
+    <string name="navigation_drawer_open" translatable="false">drawer open </string>
+    <string name="navigation_drawer_close" translatable="false">drawer close </string>
+    <string name="insertar_actividades">Insertar Actividades</string>
+    <string name="hora_de_inicio">Hora de Inicio</string>
+    <string name="hora_fin">Hora fin</string>
+    <string name="hora_inicio">Hora Inicio</string>
+    <string name="fecha">Fecha</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="inserta_la_actividad">Inserta la actividad</string>
+    <string name="escribe_una_nota_o_valoraci_n">Escribe una nota o valoración</string>
+    <string name="a_adir_nota">Añadir nota</string>
+    <string name="id_actividad">Id Actividad :</string>
+    <string name="alumno">Alumno:</string>
+    <string name="hora_de_fin">Hora de fin:</string>
+    <string name="actividad">Actividad:</string>
+    <string name="ayer">ayer</string>
+    <string name="ma_ana">mañana</string>
+    <string name="hoy">Hoy</string>
+    <string name="otro">otro</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento:</string>
+    <string name="insertar_alumno">Insertar Alumno</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_del_alumno">Nombre del alumno</string>
+    <string name="apellidos_del_alumno">Apellidos del alumno</string>
+    <string name="registro_alumno">Registro alumno</string>
+    <string name="registro_actividad">Registro actividad</string>
+    <string name="lista_Alumno">Lista alumno</string>
+    <string name="dia">Día</string>
+    <string name="actividad_bien">Actividad añadida correctamente</string>
+    <string name="fecha_mal">Fecha incorrecta</string>
+    <string name="faltan">Faltan campos por rellenar</string>
+    <string name="seleccione">Seleccione la Aplicación</string>
+    <string name="salio_mal">Algo salió mal</string>
+    <string name="no_imagen">No has escogido una imagen</string>
+    <string name="importante">Imortante</string>
+    <string name="desea_Actividad">¿Desea eliminar esta actividad?</string>
+    <string name="registro_eliminado">Registro eliminado</string>
+    <string name="registro_no_eliminado">Registro no eliminado</string>
+    <string name="usuario_agregado">Usuario agregado correctamente</string>
+    <string name="actividades">Actividades</string>
+    <string name="id" translatable="false">ID:</string>
+    <string name="actualizar">actualizar</string>
+    <string name="guardar_Registro">Guardar registro</string>
+    <string name="registro_actualizado">registro actualizado</string>
+    <string name="desea_Eliminar">¿Desea eliminar este alumno?</string>
+    <string name="nota_add">Nota añadida</string>
+
+
+
+
+
+
+
+
+</resources>
