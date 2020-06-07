@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Alex\\AndroidStudioProjects\\Logopeda\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\alexl\\AndroidStudioProjects\\Logopeda\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\b700bfc0f9180812ac817088e66c00b6\\core-1.1.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\alexl\\.gradle\\caches\\transforms-2\\files-2.1\\ba343e281f6dd6a8847af3ddc38365c4\\jetified-core-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7,10",
                         "startColumns": "0,0,0",

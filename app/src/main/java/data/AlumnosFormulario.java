@@ -7,7 +7,7 @@ public class AlumnosFormulario {
 
     public static abstract class EntradaAlumnos implements BaseColumns {
 
-        public static final String TABLE_NAME = "alumno";
+        public static final String Tabla_Alumnos = "alumno";
 
         public static final String ID = "id";
         public static final String Nombre = "Nombre";

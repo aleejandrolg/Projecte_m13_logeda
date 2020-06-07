@@ -19,8 +19,14 @@ public class Alumno {
 
     }
 
-    public Alumno() {
 
+    public Alumno() {
+    }
+
+    public Alumno(String nombre, String apellidos, String fecha_nacimiento) {
+        this.Nombre = Nombre;
+        this.Apellidos = Apellidos;
+        this.Fecha_Nacimiento = Fecha_Nacimiento;
     }
 
     ////////////////////si no funciona quitar el id recordar//////////////////////////////////
@@ -50,5 +56,15 @@ public class Alumno {
         this.id = id;
     }
 
+    public void setNombre(String nombre) {
+        Nombre = nombre;
+    }
 
+    public void setApellidos(String apellidos) {
+        Apellidos = apellidos;
+    }
+
+    public void setFecha_Nacimiento(String fecha_Nacimiento) {
+        Fecha_Nacimiento = fecha_Nacimiento;
+    }
 }
